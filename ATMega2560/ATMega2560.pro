@@ -1,4 +1,4 @@
-update=24-May-18 2:14:23 PM
+update=25-May-18 3:38:39 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -74,3 +74,6 @@ LibName32=valves
 LibName33=C:/Users/Airchip/Documents/AirchipLib/schemas/airchip
 LibName34=C:/Users/Airchip/Documents/Baskı/AirSeat.Rev.1.0.0.2364/AirSeat.Rev.1.0.0.2364/AirSeat-cache
 LibName35=SIM800C/SIM800C
+LibName36=SJ2-35984E-SMT-TR/SJ2-35984E-SMT-TR
+LibName37=SJ-2504A-SMT-TR/SJ-2504A-SMT-TR
+LibName38=U.FL-R-SMT_10_/U.FL-R-SMT_10_
