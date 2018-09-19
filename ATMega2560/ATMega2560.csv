@@ -1,0 +1,67 @@
+Title,ATMega2560
+Revision,2.0
+Date,2018-09-10
+Generated,9/13/2018 3:15:54 PM
+Company,Airchip Tech
+Comment 1,B. Altinsoy
+Comment 2,
+Comment 3,
+Comment 4,
+Total Parts,129
+Total Unique Parts,46
+
+
+
+Ref,Qty,Value,Footprint,Datasheet,Field4,Field5,Field6,Field7,Field8,Lnk,MNP,Price,
+BT1 ,1,Battery_Cell,footprints:DS1092-12N8S,, , , , , , , , 
+BZ1 ,1,Buzzer,footprints:MCW12075,, , , , , , , , 
+C1 C10 C11 ,3,22pF,Capacitors_SMD:C_0805,, , , , , , , , 
+C2 C5 C6 C7 C8 C13 C15 C16 C17 C18 C20 C21 C25 ,13,0.1uF,Capacitors_SMD:C_0805,, , , , , , , , 
+C3 C12 C26 C27 C28 C29 C30 C31 ,8,1uF,Capacitors_SMD:C_0805,, , , , , , , , 
+C9 ,1,0.33uF,Capacitors_SMD:C_0805,, , , , , , , , 
+C14 C32 C33 C34 ,4,2.2uF,Capacitors_SMD:C_0805,, , , , , , , , 
+C23 ,1,100uF,Capacitors_SMD:CP_Elec_8x10,, , , , , , , , 
+C24 ,1,1000uF,Capacitors_SMD:CP_Elec_10x10.5,, , , , , , , , 
+D1 ,1,ON,LEDs:LED_0805,, , , , , , , , 
+D3 ,1,1N5822,Diodes_SMD:D_SOD-123,, , , , , , , , 
+EZ1 EZ2 EZ3 EZ4 ,4,EZO-hub,footprints:Atlas_Stamp,, , , , , , , , 
+J1 ,1,RX/TX,Pin_Headers:Pin_Header_Straight_1x02_Pitch2.54mm,, , , , , , , , 
+J2 ,1,PINS,Pin_Headers:Pin_Header_Straight_1x08_Pitch2.54mm,, , , , , , , , 
+J3 ,1,Power_IN_01x02,footprints:15EDGVC-3.81-02P-14-00AH,, , , , , ,Value,Value,Value
+J4 ,1,Sensors_02x10_Counter_Clockwise,Pin_Headers:Pin_Header_Straight_2x10_Pitch2.54mm,, , , , , ,Value,Value,Value
+J5 ,1,Prog_02x04_Counter_Clockwise,Pin_Headers:Pin_Header_Straight_2x04_Pitch1.27mm,, , , , , ,Value,Value,Value
+J6 ,1,I2C,Pin_Headers:Pin_Header_Straight_1x02_Pitch2.54mm,, , , , , , , , 
+J9 J14 J16 J17 ,4,BNC_1,footprints:5-1634503-1,, , , , , ,Value,Value,Value
+J15 ,1,BTN,Pin_Headers:Pin_Header_Straight_1x02_Pitch2.54mm,, , , , , , , , 
+J18 ,1,Relay_Terminal_1x12,footprints:15EGTVC-3.81-12P-14-00AH,, , , , , ,Value,Value,Value
+J19 ,1,Analog_IN_01x02,footprints:15EDGVC-3.81-02P-14-00AH,, , , , , ,Value,Value,Value
+K1 K2 K3 K4 ,4,G5Q-1,footprints:HJR-3FF-S-Z-4,, , , , , , , , 
+L2 ,1,100uH,footprints:L_SMD_12.5x12.5,, , , , , , , , 
+Q3 Q4 Q5 Q6 ,4,NMOS,TO_SOT_Packages_SMD:SOT-23,, , , , , , , , 
+R1 R17 R37 R42 R43 R44 R45 ,7,10K,Resistors_SMD:R_0805,, , , , , , , , 
+R2 R26 R39 R40 R41 ,5,1K,Resistors_SMD:R_0805,, , , , , , , , 
+R3 R4 R7 R11 R14 R18 R22 R23 R28 R30 R31 ,11,4.7K,Resistors_SMD:R_0805,, , , , , , , , 
+R5 ,1,1M,Resistors_SMD:R_0805,, , , , , , , , 
+R6 R8 R9 R12 R13 R15 R16 R25 R27 R29 R32 R33 R34 R35 R36 R38 ,16,DNP,Resistors_SMD:R_0805,, , , , , , , , 
+R10 ,1,27R,Resistors_SMD:R_0805,, , , , , , , , 
+R19 R20 R21 R24 ,4,100R,Resistors_SMD:R_0805,, , , , , , , , 
+R55 ,1,1M,Resistors_SMD:R_0805,, , , , , ,Value,Value,Value
+R56 ,1,100K,Resistors_SMD:R_0805,, , , , , ,Value,Value,Value
+U1 U6 U9 U10 ,4,SI8600,SOIC127P600X175-8N:SOIC127P600X175-8N,, , , , , , , , 
+U2 ,1,L78L33ABUTR,TO_SOT_Packages_SMD:SOT-89-3,, , , , , , , , 
+U3 ,1,MPCIE-Socket,2041119-1:TE_2041119-1,, , , , , , , , 
+U4 ,1,DS1302,DS1302ZN_:SOIC127P600X175-8N,, , , , , , , , 
+U5 U11 U12 U14 ,4,R1SE-0505,R1SE-0505-R:SOIC254P1110X700-5N,, , , , , , , , 
+U7 ,1,ATMEGA2560-16AU,ATMEGA2560-16AU:QFP50P1600X1600X120-100N,, , , , , , , , 
+U8 U15 U16 U17 ,4,LD2981ABM,TO_SOT_Packages_SMD:SOT-23-5,, , , , , , , , 
+U13 ,1,LM2576,TO_SOT_Packages_SMD:TO-263-5_TabPin3,, , , , , , , , 
+U18 ,1,ATMEGA2561-16MU,footprints:ATMEGA2561V-8MU,, , , , , ,Value,Value,Value
+U19 ,1,TXS0102DCUR,TXS0102DCUR:SOP50P310X90-8N,0.40 USD,TXS0102DCUR,2-Bit Bidirectional Voltage-Level Translator for Open-Drain and Push-Pull Application 8-US8 -40 to 85,Good,VFSOP-8 Texas Instruments,Texas Instruments,Value,Value,Value
+Y1 ,1,16Mhz,CSTCE16M0V53-R0:OSC_CSTCE16M0V53-R0,, , , , , , , , 
+Y2 ,1,32.768 KHz,footprints:R38-32.768,, , , , , , , , 
+
+
+
+
+BOM made with KICAD_BOM_WIZARD (https://github.com/HashDefineElectronics/KiCad_BOM_Wizard.git)
+Generated 9/13/2018 3:15:54 PM
